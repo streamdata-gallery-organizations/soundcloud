@@ -18,8 +18,8 @@ tags:
 - Audio
 - Audio
 - API LIfeycle
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/soundcloud/master/_listings/soundcloud/apis.yaml
 specificationVersion: "0.14"
 apis:
