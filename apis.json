@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - SoundCloud",
+	"description": "This is a repository of soundcloud APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/soundcloud.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://soundcloud.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "SoundCloud",
+			"x-api-slug": "soundcloud",
+			"description": "SoundCloud is a music and podcast streaming platform that lets you listen to millions of songs from around the world, or upload your own. Start listening now!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/252-soundcloud.jpg",
+			"humanURL": "http://soundcloud.com",
+			"baseURL": "https://api.soundcloud.com//",
+			"tags": "SoundCloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/soundcloud/master/_listings/soundcloud/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "SoundCloud",
+	"include": [
+		{
+			"name": "SoundCloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/soundcloud/master/_listings/soundcloud/apis.yaml"
+		}
+	]
+}
